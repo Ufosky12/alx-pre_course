@@ -2,3 +2,5 @@ ALX
 #!/bin/bashcho "ALX"  ALX
 #!/bin/bash
 echo "ALX School is so cool!"
+#!/bin/bash
+echo "ALX"
